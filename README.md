@@ -1,4 +1,2 @@
 # CS203-project
-Basic ALU unit in verilog  
-  need updating  
-  
+Basic ALU unit in verilog
